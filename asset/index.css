@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    /* background-position: fixed; */
+}
+.hero{
+    /* background-image: url(asset/images/hero.jpg); */
+    background: url("../asset/images/hero.jpg");
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
